@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <p-carousel
   [value]="products"
   [numVisible]="3"
@@ -9,10 +11,9 @@
       <!-- Imagen del producto -->
       <div class="mb-4 overflow-hidden rounded-lg">
         <img 
-          [src]="product.image" 
-          [alt]="product.name" 
-          class="w-full h-60 object-cover object-center rounded-lg"
-        />
+        [src]="product.image" 
+        [alt]="product.name" 
+        class="w-full h-auto object-cover object-center rounded-lg" />
       </div>
 
       <!-- Detalles del producto -->
