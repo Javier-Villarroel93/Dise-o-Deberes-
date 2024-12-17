@@ -9,40 +9,40 @@ export class Deber5Component {
   // Lista de productos
   products = [
     { 
-      name: 'MESSI 1', 
+      name: 'Play Station 5 Portatil', 
       price: 999, 
       inventoryStatus: 'In Stock', 
-      image: 'https://img2.rtve.es/v/6753970?w=1600&preview=1670619705279.jpg'
+      image: 'https://i.ytimg.com/vi_webp/SQ4sV9LILJY/maxresdefault.webp'
     },
     { 
-      name: 'MESSI 2', 
+      name: 'Play 4 Slim', 
       price: 999, 
       inventoryStatus: 'Out of Stock', 
-      image: 'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-11/Lionel%20Messi%20Inter%20Miami%202024.jpg?h=3e124502&itok=-Z8iPV_k'
+      image: 'https://www.artefacta.com/media/catalog/product/1/3/138875-1_estkifrdkjwbcia9.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=1040&width=1040&canvas=1040:1040'
     },
     { 
-      name: 'MESSI 3', 
+      name: 'Play 5', 
       price: 999, 
       inventoryStatus: 'In Stock', 
-      image: 'https://ocdn.eu/sport-images-transforms/1/bLZk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kOTc4ZTFkYzk1ODQzODFjYTM1ZmMzNmQ2YWY4NmQ2MS5qcGeTlQMAAM0Imc0E15UCzQOwAMLDkwmmODAzMDVhBt4AAqEwBqExAQ/leo-messi.avif'
+      image: 'https://www.computron.com.ec/wp-content/uploads/2023/08/CFI-1215A-652-600x600.jpg'
     },
     { 
-      name: 'MESSI 4', 
+      name: 'Play 2', 
       price: 999, 
       inventoryStatus: 'In Stock', 
-      image: 'https://s7d2.scene7.com/is/image/TWCNews/lionel_messi_AP23239056067210_ca_0904?wid=1250&hei=703&$wide-bg$'
+      image: 'https://phantom-marca.unidadeditorial.es/9862718e3980f41729ef11ba81301459/crop/0x0/988x556/f/webp/assets/multimedia/imagenes/2021/03/04/16148648628020.jpg'
     },
     { 
-      name: 'MESSI 5', 
+      name: 'Play 3', 
       price: 999, 
       inventoryStatus: 'In Stock', 
-      image: 'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-10/nba-plain--3a138067-ca08-4634-983f-43dc2d3dd29b.png?h=920929c4&itok=N6-zrn8W'
+      image: 'https://http2.mlstatic.com/D_800486-MLA80819337660_122024-O.jpg'
     },
     { 
-      name: 'MESSI 6', 
+      name: 'PSP', 
       price: 999, 
       inventoryStatus: 'In Stock', 
-      image: 'https://www.directvsports.com/__export/1721236790735/sites/dsports/img/2024/07/17/messi_maximo_ganador.jpg_1309147466.jpg'
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/PlayStation_Vita_illustration.svg/1200px-PlayStation_Vita_illustration.svg.png'
     },
   ];
 
